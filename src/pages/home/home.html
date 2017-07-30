@@ -8,11 +8,19 @@
 </ion-header>
 
 <ion-content padding>
-  <h3>Insira os dados para efetuar o cálculo</h3>
+  <ion-list>
 
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will show you the way.
-  </p>
+  <ion-item>
+    <ion-label clearOnEdit floating>Peso em Kg:</ion-label>
+    <ion-input type="number"></ion-input>
+  </ion-item>
 
-  <button ion-button secondary menuToggle>Toggle Menu</button>
+  <ion-item>
+    <ion-label clearOnEdit floating>Altura em metros:</ion-label>
+    <ion-input type="number"></ion-input>
+  </ion-item>
+
+</ion-list>
+
+<button ion-button outline>Calcular</button>
 </ion-content>
