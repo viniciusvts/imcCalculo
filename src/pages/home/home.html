@@ -10,17 +10,32 @@
 <ion-content padding>
   <ion-list>
 
-  <ion-item>
-    <ion-label clearOnEdit floating>Peso em Kg:</ion-label>
-    <ion-input type="number"></ion-input>
-  </ion-item>
+    <ion-item>
+      <ion-label clearOnEdit=true floating>
+        Peso em Kg:
+      </ion-label>
+      <ion-input type="number" (input)="peso = $event.target.value"></ion-input>
+    </ion-item>
 
-  <ion-item>
-    <ion-label clearOnEdit floating>Altura em metros:</ion-label>
-    <ion-input type="number"></ion-input>
-  </ion-item>
+    <ion-item>
+      <ion-label clearOnEdit floating>
+        Altura em metros:
+      </ion-label>
+      <ion-input type="number" (input)="altura = $event.target.value"></ion-input>
+    </ion-item>
 
-</ion-list>
+  </ion-list>
 
-<button ion-button outline>Calcular</button>
+  <button ion-button full (click)="calcular()">Calcular</button>
+
+  <div *ngIf="imc > 0">
+    <ion-card>
+      <ion-card-header>
+        IMC: {{ imc }}
+      </ion-card-header>
+      <ion-card-content>
+        Situação: {{ condicao }}
+      </ion-card-content>
+    </ion-card>
+  </div>
 </ion-content>
