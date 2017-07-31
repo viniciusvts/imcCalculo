@@ -8,7 +8,6 @@ import { AboutPage } from '../pages/about/about';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
-import {FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
