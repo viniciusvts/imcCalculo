@@ -19,11 +19,6 @@ export class HomePage {
   calcular(){
     this.imc = CalculosDirective.calcularImc( this.altura, this.peso );
     this.condicao = CalculosDirective.informarImc(this.imc);
-    console.log("botâo clicado!");
-    console.log(this.peso);
-    console.log(this.altura);
-    console.log(this.condicao);
-    console.log(this.imc);
   }
 
 }
