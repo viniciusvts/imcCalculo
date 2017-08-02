@@ -28,15 +28,18 @@
 
   <button ion-button full (click)="calcular()">Calcular</button>
 
+  <br>
+
   <div *ngIf="imc > 0">
     <ion-card>
       <ion-card-header>
         IMC: {{ imc }}
       </ion-card-header>
       <ion-card-content>
-        <p>Situação: {{ condicao }}</p>
-        <p>IMC saudável fica entre 18,5 a 25.</p>
-        <p>Não entendeu? Visualize a página "sobre".</p>
+        <p><ion-icon margin="5px" name="md-send"></ion-icon>Situação: {{ condicao }}</p>
+        <br>
+        <p><ion-icon margin="5px" name="md-thumbs-up"></ion-icon>IMC saudável fica entre 18,5 a 25.</p>
+        <p><ion-icon margin="5px" name="md-help"></ion-icon>Não entendeu? Visualize a página "Sobre".</p>
       </ion-card-content>
     </ion-card>
   </div>
