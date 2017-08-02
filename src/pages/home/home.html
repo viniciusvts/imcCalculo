@@ -11,17 +11,17 @@
   <ion-list>
 
     <ion-item>
-      <ion-label clearOnEdit=true floating>
-        Peso em Kg:
+      <ion-label floating>
+        Digite seu peso em Kg. Ex: 98.780
       </ion-label>
-      <ion-input type="number" (input)="peso = $event.target.value"></ion-input>
+      <ion-input type="number" (input)="peso = $event.target.value" placeHolder=85.700></ion-input>
     </ion-item>
 
     <ion-item>
-      <ion-label clearOnEdit floating>
-        Altura em metros:
+      <ion-label floating>
+        Digite sua altura em metros. Ex: 1.55
       </ion-label>
-      <ion-input type="number" (input)="altura = $event.target.value"></ion-input>
+      <ion-input type="number" (input)="altura = $event.target.value" placeHolder=1.55></ion-input>
     </ion-item>
 
   </ion-list>
@@ -34,7 +34,9 @@
         IMC: {{ imc }}
       </ion-card-header>
       <ion-card-content>
-        Situação: {{ condicao }}
+        <p>Situação: {{ condicao }}</p>
+        <p>IMC saudável fica entre 18,5 a 25.</p>
+        <p>Não entendeu? Visualize a página "sobre".</p>
       </ion-card-content>
     </ion-card>
   </div>
