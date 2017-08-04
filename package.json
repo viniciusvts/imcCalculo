@@ -1,8 +1,8 @@
 {
     "name": "imcCalculo",
     "version": "0.0.1",
-    "author": "Ionic Framework",
-    "homepage": "http://ionicframework.com/",
+    "author": "Vinicius de Santana",
+    "homepage": "http://www.viniciusvts.com.br",
     "private": true,
     "scripts": {
         "clean": "ionic-app-scripts clean",
@@ -44,7 +44,7 @@
         "ionic": "3.6.0",
         "typescript": "2.3.4"
     },
-    "description": "An Ionic project",
+    "description": "Para calculo do indice de massa corporal",
     "cordova": {
         "plugins": {
             "cordova-plugin-console": {},
