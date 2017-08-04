@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2208"
+   height="2208"
+   viewBox="0 0 584.19997 584.19997"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/vinicius/workspace/imcCalculo/resources/icon.png"
+   inkscape:export-xdpi="113.04348"
+   inkscape:export-ydpi="113.04348"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logoink.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient7028"
+       inkscape:collect="always">
+      <stop
+         id="stop7024"
+         offset="0"
+         style="stop-color:#5fbcd3;stop-opacity:1;" />
+      <stop
+         id="stop7026"
+         offset="1"
+         style="stop-color:#0058ff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6821-6-2">
+      <stop
+         style="stop-color:#5fbcd3;stop-opacity:1;"
+         offset="0"
+         id="stop6817" />
+      <stop
+         style="stop-color:#5fbcd3;stop-opacity:0;"
+         offset="1"
+         id="stop6819" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6459"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#d5f6ff;stop-opacity:1;"
+         offset="0"
+         id="stop6457" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4521"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4519" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6821-6-2"
+       id="linearGradient6823"
+       x1="116.00929"
+       y1="0.18592792"
+       x2="887.23186"
+       y2="0.18592792"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6981"
+       x="-0.0035266007"
+       width="1.0070532"
+       y="-0.010220273"
+       height="1.0204405">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1304644"
+         id="feGaussianBlur6983" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7028"
+       id="radialGradient7022"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.34964636,0,0.12091134)"
+       cx="501.62061"
+       cy="0.1859163"
+       fx="501.62061"
+       fy="0.1859163"
+       r="387.37741" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7028"
+       id="radialGradient7040"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.34964636,0,0.12091134)"
+       cx="501.62061"
+       cy="0.1859163"
+       fx="501.62061"
+       fy="0.1859163"
+       r="387.37741" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.16"
+     inkscape:cx="303.12093"
+     inkscape:cy="1024.7619"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,287.19987)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.76027679px;line-height:1.25;font-family:'Linux Libertine Initials O';-inkscape-font-specification:'Linux Libertine Initials O';letter-spacing:0px;word-spacing:0px;opacity:1;fill:url(#radialGradient7040);fill-opacity:1;stroke:#000906;stroke-width:1.89399993;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:8.71239948;stroke-opacity:1;filter:url(#filter6981)"
+       x="80.955009"
+       y="118.00831"
+       id="text5011"
+       transform="matrix(0.51445489,0,0,1.2899494,45.283838,0.06594745)"
+       inkscape:export-xdpi="96.014053"
+       inkscape:export-ydpi="96.014053"><tspan
+         sodipodi:role="line"
+         id="tspan5009"
+         x="80.955009"
+         y="118.00831"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:363.64932251px;line-height:1.25;font-family:'Linux Libertine Initials O';-inkscape-font-specification:'Linux Libertine Initials O';fill:url(#radialGradient7040);fill-opacity:1;stroke:#000906;stroke-width:1.89399993;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:8.71239948;stroke-opacity:1">IMC</tspan></text>
+  </g>
+</svg>

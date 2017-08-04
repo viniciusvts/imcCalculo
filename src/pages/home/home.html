@@ -8,28 +8,37 @@
 </ion-header>
 
 <ion-content padding>
+<!--Aviso de como usar -->
+  <ion-card>
+    <ion-card-content>
+      <p id="aviso">
+        Para realizar o cálculo digite sua altura em metros (ex: 1,65), e o seu peso em Kg (ex: 65,750).
+      </p>
+    </ion-card-content>
+  </ion-card>
+<!--Imputs -->
   <ion-list>
 
     <ion-item>
       <ion-label floating>
-        Digite seu peso em Kg. Ex: 98.780
-      </ion-label>
-      <ion-input type="number" (input)="peso = $event.target.value" placeHolder=85.700></ion-input>
-    </ion-item>
-
-    <ion-item>
-      <ion-label floating>
-        Digite sua altura em metros. Ex: 1.55
+        Digite sua altura
       </ion-label>
       <ion-input type="number" (input)="altura = $event.target.value" placeHolder=1.55></ion-input>
     </ion-item>
-
+    <ion-item>
+      
+      <ion-label floating>
+        Digite seu peso
+      </ion-label>
+      <ion-input type="number" (input)="peso = $event.target.value" placeHolder=85.700></ion-input>
+    </ion-item>
+    
   </ion-list>
-
+<!--Botão (cacular) -->
   <button ion-button full (click)="calcular()">Calcular</button>
 
   <br>
-
+<!--Mensagem que informa o IMC -->
   <div *ngIf="imc > 0">
     <ion-card>
       <ion-card-header>
