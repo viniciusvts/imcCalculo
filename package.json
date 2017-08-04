@@ -2,7 +2,7 @@
     "name": "imcCalculo",
     "version": "0.0.1",
     "author": "Vinicius de Santana",
-    "homepage": "http://www.viniciusvts.com.br",
+    "homepage": "http://www.vtsantana.com.br",
     "private": true,
     "scripts": {
         "clean": "ionic-app-scripts clean",
