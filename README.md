@@ -1,4 +1,4 @@
-##IMC Cálculo
+## IMC Cálculo
 Esta é uma aplicação simples para cálculo do IMC (índice de massa corporal).
 Este aplicativo está disponível para android.
 
