@@ -24,6 +24,40 @@
   <defs
      id="defs2">
     <linearGradient
+       id="linearGradient4826"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4824" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4804">
+      <stop
+         style="stop-color:#5555ff;stop-opacity:1"
+         offset="0"
+         id="stop4800" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1"
+         offset="1"
+         id="stop4802" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4536"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
        id="linearGradient7028"
        inkscape:collect="always">
       <stop
@@ -72,19 +106,6 @@
        x2="887.23186"
        y2="0.18592792"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter6981"
-       x="-0.0035266007"
-       width="1.0070532"
-       y="-0.010220273"
-       height="1.0204405">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.1304644"
-         id="feGaussianBlur6983" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7028"
@@ -98,15 +119,28 @@
        r="387.37741" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient7028"
-       id="radialGradient7040"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.34964636,0,0.12091134)"
-       cx="501.62061"
-       cy="0.1859163"
-       fx="501.62061"
-       fy="0.1859163"
-       r="387.37741" />
+       xlink:href="#linearGradient4804"
+       id="radialGradient4806"
+       cx="286.44946"
+       cy="193.37088"
+       fx="286.44946"
+       fy="193.37088"
+       r="283.72022"
+       gradientTransform="matrix(-1.5703132,0.05122621,-0.0455788,-1.3971937,943.14719,80.3871)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4954"
+       x="-0.0056649805"
+       width="1.01133"
+       y="-0.01641741"
+       height="1.0328348">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8159297"
+         id="feGaussianBlur4956" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -116,8 +150,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.16"
-     inkscape:cx="303.12093"
-     inkscape:cy="1024.7619"
+     inkscape:cx="1774.9959"
+     inkscape:cy="718.5119"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -145,19 +179,28 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,287.19987)">
+    <rect
+       style="opacity:1;fill:url(#radialGradient4806);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.21199989;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4507"
+       width="565.02844"
+       height="556.76025"
+       x="10.181062"
+       y="-273.2485"
+       ry="107.48698"
+       rx="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.76027679px;line-height:1.25;font-family:'Linux Libertine Initials O';-inkscape-font-specification:'Linux Libertine Initials O';letter-spacing:0px;word-spacing:0px;opacity:1;fill:url(#radialGradient7040);fill-opacity:1;stroke:#000906;stroke-width:1.89399993;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:8.71239948;stroke-opacity:1;filter:url(#filter6981)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.76027679px;line-height:1.25;font-family:'Linux Libertine Initials O';-inkscape-font-specification:'Linux Libertine Initials O';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000906;stroke-width:1.89399993;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:8.71239948;stroke-opacity:1;filter:url(#filter4954)"
        x="80.955009"
        y="118.00831"
        id="text5011"
-       transform="matrix(0.51445489,0,0,1.2899494,45.283838,0.06594745)"
+       transform="matrix(0.66616737,0,0,1.5947008,-41.566968,0.00928576)"
        inkscape:export-xdpi="96.014053"
        inkscape:export-ydpi="96.014053"><tspan
          sodipodi:role="line"
          id="tspan5009"
          x="80.955009"
          y="118.00831"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:363.64932251px;line-height:1.25;font-family:'Linux Libertine Initials O';-inkscape-font-specification:'Linux Libertine Initials O';fill:url(#radialGradient7040);fill-opacity:1;stroke:#000906;stroke-width:1.89399993;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:8.71239948;stroke-opacity:1">IMC</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:363.64932251px;line-height:1.25;font-family:'Linux Libertine Initials O';-inkscape-font-specification:'Linux Libertine Initials O';fill:#ffffff;fill-opacity:1;stroke:#000906;stroke-width:1.89399993;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:8.71239948;stroke-opacity:1">IMC</tspan></text>
   </g>
 </svg>
