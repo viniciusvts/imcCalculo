@@ -1,5 +1,8 @@
 {
   "name": "imcCalculo",
   "app_id": "br.com.vtsantana.imcCalculo",
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
